@@ -1,0 +1,13 @@
+
+         body  { background-image: url(http://eve.kean.edu/~ykumar/CPS3500_SP2021/yulia_kumar.jpg);
+                 background-position: bottom right;
+                 background-repeat: no-repeat;
+                 background-attachment: fixed;
+                 background-color: purple; }
+         p     { font-size: 18pt;
+                 color: red;
+                 text-indent: 1em;
+                 font-family: arial, sans-serif; }
+         .dark { font-weight: bold; }
+        
+      
